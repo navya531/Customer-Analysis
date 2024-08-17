@@ -21,7 +21,7 @@ This Tableau Dashboard leverages a rich palette of visualizations, including Bar
 
 Dashboard:
 
-https://drive.google.com/file/d/1OfORNLI_sOOfEDnhMTnmb_fG3I_SFgHX/view?usp=drive_link
+![Dashboard 1](https://github.com/user-attachments/assets/15d68bd4-0b40-4fc1-a09c-417110da65a4)
 
 ## Conclusion:
 
