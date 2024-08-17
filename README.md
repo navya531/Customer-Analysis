@@ -20,3 +20,9 @@ This Project is a comprehensive dashboard titled "Customer Analysis" which prese
 This Tableau Dashboard leverages a rich palette of visualizations, including Bar charts, Scatter plots, KPI's, and Tree Maps. These visuals are carefully crafted to make complex data easily accessible and visually engaging, enhancing the user experience.
 
 Dashboard:
+
+https://drive.google.com/file/d/1OfORNLI_sOOfEDnhMTnmb_fG3I_SFgHX/view?usp=drive_link
+
+## Conclusion:
+
+This Dashboard is a powerful tool for analyzing critical KPI's across regions, customer segments, and product categories, helping to identify trends, opportunities, and areas needing improvement.
